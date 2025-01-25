@@ -15,7 +15,7 @@ A collection of adapters and utilities for integrating various bot frameworks li
 	Contributing
 
 	Contributions are welcome! Feel free to submit pull requests for additional frameworks, enhancements, or bug fixes.
-
+'''
 Suggested File Tree:
 
 bot-adapters/
@@ -58,7 +58,7 @@ bot-adapters/
 ├── README.md                         # Main README for the repository
 ├── LICENSE                           # License file
 └── pom.xml                           # Maven configuration (if using Maven)
-
+'''
 Notes:
 	1.	Modularity: Each bot framework has its own subfolder under src/ for clear separation and easy maintainability.
 	2.	Common Utilities: A common/ directory centralizes shared functionality like command handling and logging.
